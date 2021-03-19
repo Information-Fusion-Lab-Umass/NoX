@@ -1,5 +1,6 @@
-
 # NuX - Normalizing Flows using JAX
+
+[![.github/workflows/CI.yml](https://github.com/MilesCranmer/NuX/actions/workflows/CI.yml/badge.svg)](https://github.com/MilesCranmer/NuX/actions/workflows/CI.yml)
 
 ## What is NuX?
 NuX is a library for building [normalizing flows](https://arxiv.org/pdf/1912.02762.pdf) using [JAX](https://github.com/google/jax).
